@@ -1,5 +1,8 @@
 # NF-Client-Installer-dev_build
 NF Client 개발버전 설치기의 오픈소스입니다.
+[NF Client 공식 사이트][nfclient]
+
+[nfclient]: https://www.nfclient.kro.kr "NF Client"
 
 ## NF Client?
 NF Client는 Forge 기반 마인크래프트 1.8.9 클라이언트입니다.
