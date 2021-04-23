@@ -1,0 +1,48 @@
+NF Client를 이용해 주셔서 감사합니다. 
+아래 동의해야 하는 내용은 꼭! 읽어주시기 바랍니다.
+
+────────동의해야 하는 내용───────
+1.본 설치기는 파일 변조 방지를 위해 2차 배포가 금지됩니다.
+
+2.본 설치기는 예고없이 삭제되거나 변경될 수 있습니다.
+
+3.본 설치기의 파일 링크는 예고없이 삭제되거나 변경될 수 있습니다.
+
+4.본 설치기 이용시, NF Client 에 수동으로 설치한 모드는 전부 삭제됩니다.
+
+5.본 설치기는 언제든지 업데이트가 될 수 있습니다. 
+  아래 사이트에서 새로운 버전이 나왔는지 확인해주세요.
+  (이 설치기 버전은 Beta 2.5 입니다)
+  설치기 다운로드 주소: https://www.hift.kro.kr/download
+  
+6.이 클라이언트는 모든 컴퓨터에서 안정적으로 작동하지 않으며, 몇몇 컴퓨터에서 에러가 발생할 수 있습니다.
+
+7.이 클라이언트의 최소사양보다 낮은 사양의 컴퓨터로 플레이 시, 모든 책임은 개인에게 있습니다(최소사양은 하이파타 디스코드에서 확인해주세요)
+  하이파타 디스코드 링크: https://discord.gg/tmqUgaY
+────────────────────────
+
+───────패치 노트 및 변경사항───────
+2020.11: NF Client GUI 키 설정을 바꾸지 않아도 사용할 수 있도록 변경하였고, 디자인 변경됨(오른쪽 쉬프트를 눌러 사용 가능), 여러 모드 한글화, patcher config 업데이트로 채팅창 투명하게 변경, Levelhead 설정 적용 안되는 문제 해결(NF Client를 실행할 때 자동으로 패치), Betterfps 모드 추가(fps 증가), 나죠안의 커스텀팩 2020.02로 업데이트
+2021: discordRPC 기능 업데이트, 런처 업데이트에 따른 추가 패치, ReachDisplay 추가
+Beta 2.0: Zoom 부드럽게 변경, 스크린샷 촬영시 미리보기가 3초동안 보이고 바로 복사되게 변경, AutoGG 어색한 한글화 수정, Levelhead 업데이트, 메인메뉴에서 바로 Hypixel로 접속 가능하게 변경, Replay모드 추가, 인벤토리 창 투명하게 변경, Betterfps 알고리즘 업데이트(fps 증가), 설정파일 유지 시, 새로 추가된 설정 파일이 설치가 안되는 문제 수정, custom crosshair 모드 추가
+Beta 2.5: optifine config 업데이트, 메인메뉴 GUI 버그 수정, discord RPC 대폭 업데이트 및 버그 수정(Hypixel), Quickplay 버그 수정, 리소스팩 폰트 버그 수정
+
+모든 변경사항: https://pastebin.com/UhkZmm65
+────────────────────────
+
+─────── 모드 출처 ───────
+한글채팅: https://blog.naver.com/won983212/220627516900
+ReachDisplayMod: https://youtu.be/R1x_XHjbZkA
+AutoJoin: https://www.curseforge.com/minecraft/mc-mods/auto-join
+Autotip: https://autotip.pro/
+Betterfps: https://www.curseforge.com/minecraft/mc-mods/betterfps
+Block Overlay Mod: http://www.9minecraft.net/block-overlay-mod/
+custom crosshair mod: https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod
+CustomMainMenu: https://www.curseforge.com/minecraft/mc-mods/custom-main-menu
+Optifine: https://optifine.net/home
+Orange's Simple Mods: https://www.curseforge.com/minecraft/mc-mods/oranges-simplemods-collection
+Orange's 1.7 animations: https://www.curseforge.com/minecraft/mc-mods/old-animations-mod
+Quickplay: https://bugg.co/quickplay/
+Discord RPC(Hypixel): https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/
+기타(sk1er): https://sk1er.club
+────────────────────────
