@@ -129,6 +129,7 @@ Section "MainSection" SEC01
   ;patcher
   SetOutPath "$INSTDIR\config"
   File "나죠안\minecraft\config\patcher.toml"
+  File "나죠안\minecraft\config\bettertab.toml"
   ;launcher profiles
   SetOutPath "$INSTDIR"
   File "나죠안\minecraft\launcher_profiles.json"
@@ -207,6 +208,7 @@ notkeep:
   File "나죠안\minecraft\config\autogg.toml"
   File "나죠안\minecraft\config\blockOverlay.cfg"
   File "나죠안\minecraft\config\replaymod.cfg"
+  File "나죠안\minecraft\config\fncompassmod.cfg"
   SetOutPath "$INSTDIR\modcore"
   File "나죠안\minecraft\modcore\config.toml"
   SetOutPath "$INSTDIR\quickplay"
@@ -241,6 +243,7 @@ notkeep2:
   File "나죠안\minecraft\config\autogg.toml"
   File "나죠안\minecraft\config\blockOverlay.cfg"
   File "나죠안\minecraft\config\replaymod.cfg"
+  File "나죠안\minecraft\config\fncompassmod.cfg"
   SetOutPath "$INSTDIR\modcore"
   File "나죠안\minecraft\modcore\config.toml"
   SetOutPath "$INSTDIR\quickplay"
@@ -298,6 +301,7 @@ keep:
   File "나죠안\minecraft\config\autogg.toml"
   File "나죠안\minecraft\config\blockOverlay.cfg"
   File "나죠안\minecraft\config\replaymod.cfg"
+  File "나죠안\minecraft\config\fncompassmod.cfg"
   SetOutPath "$INSTDIR\modcore"
   File "나죠안\minecraft\modcore\config.toml"
   SetOutPath "$INSTDIR\quickplay"
