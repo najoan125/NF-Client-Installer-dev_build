@@ -193,10 +193,10 @@
 		smart_disconnect = false
 
 	[screens.tab]
-		tab_height = true
+		tab_height = false
 		custom_tab_opacity = false
 		tab_opacity = 100
-		set_tab_height = 10
+		set_tab_height = 24
 
 	[screens.combat_utilities]
 		damage_glance = true
@@ -363,6 +363,6 @@
 		preview_time = 3
 		preview_scale = 3
 		screenshot_preview = true
-		preview_animation = 0
+		preview_animation = 1
 		auto_copy_screenshot = true
 
