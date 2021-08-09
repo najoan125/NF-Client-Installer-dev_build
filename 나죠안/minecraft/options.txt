@@ -5,26 +5,26 @@ gamma:1.0
 saturation:0.0
 renderDistance:7
 guiScale:3
-particles:1
+particles:0
 bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:1
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
 resourcePacks:["¡×c³ªÁÒ¾ÈÀÇ Ä¿½ºÅÒ ÆÑ 2020.02"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:ko_KR
 chatVisibility:0
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -38,7 +38,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
+showInventoryAchievementHint:false
 mipmapLevels:4
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
@@ -93,9 +93,10 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Open GUI:41
 key_smoothfont.key.guiOpen:199
+key_Toggle Perspective:62
 key_replaymod.input.playeroverview:48
 key_replaymod.input.lighting:44
-key_replaymod.input.quickmode:16
+key_replaymod.input.quickmode:0
 key_replaymod.input.settings:0
 key_replaymod.input.marker:50
 key_replaymod.input.thumbnail:49
@@ -116,6 +117,7 @@ key_Add Friend:0
 key_Name History:0
 key_Drop Stack Modifier:0
 key_Chat Peek:0
+key_Open TC GUI:25
 key_Toggle Sprint:23
 soundCategory_master:1.0
 soundCategory_music:0.0
